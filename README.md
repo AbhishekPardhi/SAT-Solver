@@ -1,2 +1,2 @@
 # SAT-Solver
-Sat Solver implementation using Python.
+Sat Solver implementation using DPLL algorithm in Python.
